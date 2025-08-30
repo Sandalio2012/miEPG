@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tv generator-info-name="miEPG 29/08/2025 11:32" generator-info-url="https://github.com/davidmuma/miEPG">
+<tv generator-info-name="miEPG 30/08/2025 06:18" generator-info-url="https://github.com/davidmuma/miEPG">
   <channel id="La 1 Super UHD 4k">
     <display-name>La 1 Super UHD 4k</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png" />
@@ -26,21 +26,21 @@
   </channel>
   <programme start="20250829075000 +0200" stop="20250829103500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">La hora de La 1: La hora de la actualidad T8 E171</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *10/10
 · Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.
 · País: España
 · Dirección: Silvia Intxaurrondo.</desc>
   </programme>
   <programme start="20250829103500 +0200" stop="20250829150000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Mañaneros 360 T1 E95</title>
-    <desc lang="es">Entretenimiento,Magacín | 2025 | +16
+    <desc lang="es">Entretenimiento,Magacín | 2025 | +16 | *10/10
 · Magazín de actualidad conducido por Adela González y Javier Ruiz, que combina noticias y entretenimiento de la mano de sus colaboradores.
 · País: España
 · Presenta: Adela González, Javier Ruiz.</desc>
   </programme>
   <programme start="20250829150000 +0200" stop="20250829153500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 1</title>
-    <desc lang="es">Información,Informativo | 2014 | *6.2/10
+    <desc lang="es">Información,Informativo | 2014 | TP | *6.2/10
 · El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.
 · País: España
 · Presenta: Alejandra Herranz.
@@ -68,7 +68,7 @@
   </programme>
   <programme start="20250829155500 +0200" stop="20250829173000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">DIRECTO Final Etapa 7 - Andorra La Vella - Cerler T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025 | TP
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP | *10/10
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
   </programme>
@@ -105,7 +105,7 @@
   </programme>
   <programme start="20250829210000 +0200" stop="20250829214500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Telediario 2</title>
-    <desc lang="es">Información,Informativo | 2021 | TP | *6.4/10
+    <desc lang="es">Información,Informativo | 2021 | *6.4/10
 · Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Ana Roldán. También hay espacio para la parcela deportiva.
 · País: España
 · Presenta: Ana Roldán.
@@ -215,7 +215,7 @@
   </programme>
   <programme start="20250830155500 +0200" stop="20250830174000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Diana</title>
-    <desc lang="es">Cine,Drama | 2013 | TP | *6.6/10
+    <desc lang="es">Cine,Drama | 2013 | +12 | *6.6/10
 · Cuando la princesa Diana voló a Pakistán en mayo de 1997, fue a conocer a la familia del Dr. Hasnat Khan, el hombre con quien deseaba casarse. Diana, esperaba persuadir a la madre del doctor Khan haciéndole ver que sería la esposa adecuada para su hijo.
 · País: Bélgica, Francia, R.U. y Suecia
 · Dirección: Oliver Hirschbiegel.
@@ -225,7 +225,7 @@
   </programme>
   <programme start="20250830174000 +0200" stop="20250830191500 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">Grace de Mónaco</title>
-    <desc lang="es">Cine,Drama | 2014 | +7 | *6/10
+    <desc lang="es">Cine,Drama | 2014 | +12 | *6/10
 · En 1956, en su momento de mayor éxito, Grace Kelly abandona su triunfal carrera como actriz de Hollywood para casarse con el príncipe Rainiero de Mónaco. Seis años después, en 1962, el director Alfred Hitchcock le ofrece la oportunidad de volver al cine.
 · País: Bélgica, EE.UU., Francia, Italia y Suiza
 · Dirección: Olivier Dahan.
@@ -355,7 +355,7 @@
   </programme>
   <programme start="20250831155000 +0200" stop="20250831175000 +0200" channel="La 1 Super UHD 4k">
     <title lang="es">DIRECTO Final Etapa 9 - Alfaro - Estación de esquí de Valdezcaray T2025 · La Vuelta</title>
-    <desc lang="es">Deportes,Ciclismo | 2025
+    <desc lang="es">Deportes,Ciclismo | 2025 | TP
 · El ciclismo completa el calendario 2025 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 23 de agosto en Italia. La meta final, el 14 de septiembre, se cruzará en Madrid. El esloveno Primoz Roglic fue el vencedor en 2024.
 · País: España</desc>
   </programme>
@@ -2483,241 +2483,127 @@
 · País: España
 · Productora: Radio Televisión Española (RTVE), Zeppelin tv.</desc>
   </programme>
-  <programme start="20250828001500 -0500" stop="20250828010000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829001500 -0500" stop="20250829010000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">FIA Carolina Rocha</title>
   </programme>
-  <programme start="20250828010000 -0500" stop="20250828020000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829010000 -0500" stop="20250829020000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Lo que la gente cuenta</title>
   </programme>
-  <programme start="20250828020000 -0500" stop="20250828030000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829020000 -0500" stop="20250829030000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Mujeres rompiendo el silencio</title>
   </programme>
-  <programme start="20250828030000 -0500" stop="20250828040000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829030000 -0500" stop="20250829040000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Rutas de la Vida</title>
   </programme>
-  <programme start="20250828040000 -0500" stop="20250828050000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829040000 -0500" stop="20250829050000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Lo que la gente cuenta</title>
   </programme>
-  <programme start="20250828050000 -0500" stop="20250828060000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829050000 -0500" stop="20250829060000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Mujeres rompiendo el silencio</title>
   </programme>
-  <programme start="20250828060000 -0500" stop="20250828070000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829060000 -0500" stop="20250829070000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Mujeres rompiendo el silencio</title>
   </programme>
-  <programme start="20250828070000 -0500" stop="20250828080000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829070000 -0500" stop="20250829080000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Hechos AM Primera línea</title>
   </programme>
-  <programme start="20250828080000 -0500" stop="20250828090000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829080000 -0500" stop="20250829090000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Hechos A.M</title>
   </programme>
-  <programme start="20250828090000 -0500" stop="20250828100000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829090000 -0500" stop="20250829100000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Nosotros ustedes y hechos con los Ruíz Lara</title>
   </programme>
-  <programme start="20250828100000 -0500" stop="20250828120000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829100000 -0500" stop="20250829120000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20250828120000 -0500" stop="20250828140000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829120000 -0500" stop="20250829140000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Venga la alegría</title>
     <desc lang="es">Un programa de entretenimiento matutino que te alegran las mañanas, con la conducción estelar de la pareja Fernando del Solar e Ingrid Coronado, el programa cuenta con secciones tales cómo:- Ingrid habla con los peques- Cocina de Yolo- Baila con Alegría- Los especialistas- Noli y sus tips- El autobús de Danilo- Las rapiditas de Venga la Alegría- La LiliparodiaEl programa empieza con un tema bailable donde los presentadores y sus chicas bailarinas te ayudan a que te animes y llegue la alegría.Durante todo el programa se dan pistas sobre una palabra o frase que el televidente puede concursar para ganarse un premio.</desc>
     <date>2006</date>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/venga_la_alegria.png" />
   </programme>
-  <programme start="20250828140000 -0500" stop="20250828150000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829140000 -0500" stop="20250829150000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Ventaneando</title>
     <desc lang="es">Ventaneando es el programa estelar de TV Azteca donde se hace un análisis crítico del medio del espectáculo y la farándula mexicana e internacional conducido por Paty Chapoy.</desc>
     <date>1996</date>
     <category lang="es">Programa</category>
     <icon src="https://imagenes.gatotv.com/categorias/programas/miniatura/ventaneando.png" />
   </programme>
-  <programme start="20250828150000 -0500" stop="20250828160000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829150000 -0500" stop="20250829160000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Hechos meridiano</title>
   </programme>
-  <programme start="20250828160000 -0500" stop="20250828170000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829160000 -0500" stop="20250829170000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">FIA Carolina Rocha</title>
   </programme>
-  <programme start="20250828170000 -0500" stop="20250828183000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829170000 -0500" stop="20250829183000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Al extremo</title>
   </programme>
-  <programme start="20250828183000 -0500" stop="20250828203000 -0500" channel="MX | Canal TV Azteca">
+  <programme start="20250829183000 -0500" stop="20250829203000 -0500" channel="MX | Canal TV Azteca">
     <title lang="es">Acércate a Rocío</title>
   </programme>
-  <programme start="20250828060000 -0400" stop="20250828075200 -0400" channel="USA | AMC+">
-    <title lang="en">Cold in July</title>
-    <desc lang="en">The killing of a home intruder puts a Texas man (Michael C. Hall) and his family on the radar of the dead man&apos;s vengeful father (Sam Shepard).</desc>
-    <credits>
-      <actor>Michael C. Hall</actor>
-      <actor>Sam Shepard</actor>
-      <actor>Vinessa Shaw</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10401320_k_h8_ab.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
+  <programme start="20250829203000 -0500" stop="20250829213000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Están entre Nosotros</title>
   </programme>
-  <programme start="20250828075200 -0400" stop="20250828094700 -0400" channel="USA | AMC+">
-    <title lang="en">Hungry Hearts</title>
-    <desc lang="en">A new mother&apos;s increasingly unstable behavior threatens her relationship with her husband (Adam Driver) and the life of her infant.</desc>
-    <credits>
-      <actor>Adam Driver</actor>
-      <actor>Alba Rohrwacher</actor>
-      <actor>Roberta Maxwell</actor>
-    </credits>
-    <date>2014</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11580392_i_h10_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
+  <programme start="20250829213000 -0500" stop="20250829223000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Las Bravo</title>
   </programme>
-  <programme start="20250828094700 -0400" stop="20250828114300 -0400" channel="USA | AMC+">
-    <title lang="en">Closer to the Moon</title>
-    <desc lang="en">Criminals stage a bank robbery by pretending it&apos;s for a movie shoot.</desc>
-    <credits>
-      <actor>Vera Farmiga</actor>
-      <actor>Mark Strong</actor>
-      <actor>Harry Lloyd</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10375909_p_v8_ac.jpg" />
-    <previously-shown />
-</programme>
-  <programme start="20250828114300 -0400" stop="20250828133700 -0400" channel="USA | AMC+">
-    <title lang="en">Coastlines</title>
-    <desc lang="en">Released from prison, a man (Timothy Olyphant) stays with an old friend (Josh Brolin) and has an affair with his wife (Sarah Wynter).</desc>
-    <credits>
-      <actor>Timothy Olyphant</actor>
-      <actor>Josh Brolin</actor>
-      <actor>Sarah Wynter</actor>
-    </credits>
-    <date>2002</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p32820_i_s2_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-    <star-rating system="MPAA">
-      <value>4.0/10</value>
-    </star-rating>
+  <programme start="20250829223000 -0500" stop="20250829231500 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujer de Judas</title>
   </programme>
-  <programme start="20250828133700 -0400" stop="20250828150700 -0400" channel="USA | AMC+">
-    <title lang="en">Breaking the Girls</title>
-    <desc lang="en">Two college students (Agnes Bruckner, Madeline Zima) begin a steamy affair and pledge to kill each other&apos;s enemies.</desc>
-    <credits>
-      <actor>Agnes Bruckner</actor>
-      <actor>Madeline Zima</actor>
-      <actor>Shawn Ashmore</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10054329_k_h8_aa.jpg" />
-    <previously-shown />
-</programme>
-  <programme start="20250828150700 -0400" stop="20250828164000 -0400" channel="USA | AMC+">
-    <title lang="en">Queen of Earth</title>
-    <desc lang="en">Tensions rise when an emotionally fragile woman (Elisabeth Moss) spends one week with her best friend (Katherine Waterston).</desc>
-    <credits>
-      <actor>Elisabeth Moss</actor>
-      <actor>Katherine Waterston</actor>
-      <actor>Patrick Fugit</actor>
-    </credits>
-    <date>2015</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p11886854_i_h10_ab.jpg" />
-    <previously-shown />  <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
+  <programme start="20250829231500 -0500" stop="20250830001500 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Noticiero Hechos - Noche</title>
   </programme>
-  <programme start="20250828164000 -0400" stop="20250828183500 -0400" channel="USA | AMC+">
-    <title lang="en">Knives and Skin</title>
-    <desc lang="en">In the wake of a high school student&apos;s mysterious disappearance, a collective awakening seems to overcome the town&apos;s teenage girls -- gathering in force until it can no longer be contained.</desc>
-    <credits>
-      <actor>Marika Engelhardt</actor>
-      <actor>Grace Smith</actor>
-      <actor>Ireon Roach</actor>
-    </credits>
-    <date>2019</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Mystery</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p17103398_i_h10_aa.jpg" />
-    <previously-shown />
-</programme>
-  <programme start="20250828183500 -0400" stop="20250828200000 -0400" channel="USA | AMC+">
-    <title lang="en">Beyond the Gates</title>
-    <desc lang="en">After their father goes missing, two brothers meet at his video store to liquidate his assets. When they discover a VCR board game and the last video their father viewed, they find that it may actually open a door to a more sinister world.</desc>
-    <credits>
-      <actor>Graham Skipper</actor>
-      <actor>Chase Williamson</actor>
-      <actor>Barbara Crampton</actor>
-    </credits>
-    <date>2016</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13188399_i_h10_ab.jpg" />
-    <previously-shown />
-</programme>
-  <programme start="20250828200000 -0400" stop="20250828214100 -0400" channel="USA | AMC+">
-    <title lang="en">Ghost Stories</title>
-    <desc lang="en">A professor investigates three chilling and inexplicable cases related to an abandoned asylum, a car accident and the spirit of an unborn child. Even scarier -- each of the macabre tales seems to have a sinister connection to his own life.</desc>
-    <credits>
-      <actor>Martin Freeman</actor>
-      <actor>Andy Nyman</actor>
-      <actor>Paul Whitehouse</actor>
-    </credits>
-    <date>2017</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15305825_i_h8_aa.jpg" />
-    <previously-shown />
-</programme>
-  <programme start="20250828214100 -0400" stop="20250828232800 -0400" channel="USA | AMC+">
-    <title lang="en">The Harvest</title>
-    <desc lang="en">A physician (Samantha Morton) who keeps her dying son completely secluded becomes unhinged when she learns that her new neighbor (Natasha Calis) has secretly befriended the boy.</desc>
-    <credits>
-      <actor>Samantha Morton</actor>
-      <actor>Michael Shannon</actor>
-      <actor>Natasha Calis</actor>
-    </credits>
-    <date>2013</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10933393_p_v8_aa.jpg" />
-    <previously-shown />  <star-rating system="MPAA">
-      <value>6.0/10</value>
-    </star-rating>
+  <programme start="20250830001500 -0500" stop="20250830010000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">FIA Carolina Rocha</title>
   </programme>
-  <programme start="20250828232800 -0400" stop="20250829010500 -0400" channel="USA | AMC+">
-    <title lang="en">Would You Rather</title>
-    <desc lang="en">Iris (Brittany Snow) and seven other desperate people become trapped in Shepard&apos;s (Jeffrey Combs) mansion. Shepard forces them to play a sadistic game for a large sum of money -- but the dilemmas become increasingly deadly.</desc>
-    <credits>
-      <actor>Brittany Snow</actor>
-      <actor>Jeffrey Combs</actor>
-      <actor>Jonny Coyne</actor>
-    </credits>
-    <date>2012</date>
-    <category lang="en">Movies</category>
-    <category lang="en">Horror</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p9712918_k_h10_aa.jpg" />
-    <previously-shown />
-</programme>
+  <programme start="20250830010000 -0500" stop="20250830020000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20250830020000 -0500" stop="20250830030000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20250830030000 -0500" stop="20250830040000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
+  <programme start="20250830040000 -0500" stop="20250830050000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Lo que la gente cuenta</title>
+  </programme>
+  <programme start="20250830050000 -0500" stop="20250830060000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20250830060000 -0500" stop="20250830070000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20250830070000 -0500" stop="20250830080000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Mujeres rompiendo el silencio</title>
+  </programme>
+  <programme start="20250830080000 -0500" stop="20250830090000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
+  <programme start="20250830090000 -0500" stop="20250830100000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Hechos Sábado</title>
+  </programme>
+  <programme start="20250830100000 -0500" stop="20250830120000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20250830120000 -0500" stop="20250830140000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Venga la alegría - Fin de semana</title>
+  </programme>
+  <programme start="20250830140000 -0500" stop="20250830160000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Sábado al extremo</title>
+  </programme>
+  <programme start="20250830160000 -0500" stop="20250830170000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
+  <programme start="20250830170000 -0500" stop="20250830180000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
+  <programme start="20250830180000 -0500" stop="20250830190000 -0500" channel="MX | Canal TV Azteca">
+    <title lang="es">Rutas de la Vida</title>
+  </programme>
   <programme start="20250829010500 -0400" stop="20250829024200 -0400" channel="USA | AMC+">
     <title lang="en">The Feast</title>
     <desc lang="en">A wealthy family has a dinner party at its home in the Welsh mountains, hosting a local businessman and farmer who hope to broker a business deal. A mysterious young woman arrives to be the family&apos;s waitress, and things begin to unravel.</desc>
