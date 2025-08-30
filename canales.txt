@@ -1,4 +1,38 @@
-La 1,la1.es,
-La 2,la2.es,
-ANTENA 3,antena3.es,
-La 1 HD,La 1 Super UHD 4k,https://upload.wikimedia.org/wikipedia/commons/d/d3/Nuevo_Logo_de_TVE_UHD_en_2022_%2B_2023_%2B_2024.png
+La 1 HD,la1.es
+La 2,la2.es
+Antena 3 HD,antena3.es
+Cuatro HD,cuatro.es
+Telecinco HD,telecinco.es
+La Sexta HD,lasexta.es
+Movistar Plus+ HD,Movistar plus+
+M+ Estrenos HD,movistarestrenos2.es
+M+ Hits HD,M+ Hits HD
+M+ Originales HD,M+ Originales HD
+M+ Documentales HD,M+ Documentales
+M+ Clásicos HD,movistarclasicos.es
+M+ Acción HD,movistaraccion.esmovistarcomedia.es
+M+ Comedia HD,movistarcomedia.esM+ Drama
+M+ Drama HD,M+ Drama
+M+ Indie HD,M+ Indie
+M+ Cine Español,movistardcine.es
+Paramount Network,paramountchannel.es
+Be Mad,bemad.es
+STAR Channel HD,STAR Channel HD
+AXN HD,axn.es
+Warner TV HD,Warner TV
+Comedy Central HD,comedycentral.es
+M+ LaLiga HD,mlaliga.es
+DAZN LaLiga HD,daznlaliga.es
+M+ LaLiga 2 HD,mlaliga2.es
+DAZN LaLiga 2 HD,DAZN LALIGA 2
+M+ Liga de Campeones HD,mligadecampeones.es
+M+ Liga de Campeones 2 HD,mligadecampeones2.es
+M+ Liga de Campeones 3 HD,mligadecampeones3.es
+DAZN F1 HD,daznf1.es
+DAZN 1 HD,dazn1.es
+DAZN 2 HD,dazn2.es
+DAZN LaLiga 3,ES: DAZN LIGA 3 HD
+DAZN LaLiga 4,ES: DAZN LIGA 4 HD
+DAZN LaLiga 5,ES: DAZN LIGA 5 HD
+DAZN 3 HD,dazn3.es
+DAZN 4 HD,dazn4.es
