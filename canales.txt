@@ -10,8 +10,8 @@ M+ Hits HD,M+ Hits HD
 M+ Originales HD,M+ Originales HD
 M+ Documentales HD,M+ Documentales
 M+ Clásicos HD,movistarclasicos.es
-M+ Acción HD,movistaraccion.esmovistarcomedia.es
-M+ Comedia HD,movistarcomedia.esM+ Drama
+M+ Acción HD,movistaraccion.es
+M+ Comedia HD,movistarcomedia.es
 M+ Drama HD,M+ Drama
 M+ Indie HD,M+ Indie
 M+ Cine Español,movistardcine.es
@@ -21,6 +21,15 @@ STAR Channel HD,STAR Channel HD
 AXN HD,axn.es
 Warner TV HD,Warner TV
 Comedy Central HD,comedycentral.es
+Calle 13 HD,calle13.es
+Cosmo HD,cosmo.es
+Caza y Pesca HD,cazapesca.es
+National Geographic HD,natgeo.es
+Disney Junior,disneyjunior.es
+Boing,boing.es
+AXN Movies HD,AXN Movies
+DMAX,dmax.es
+Mega,mega.es
 M+ LaLiga HD,mlaliga.es
 DAZN LaLiga HD,daznlaliga.es
 M+ LaLiga 2 HD,mlaliga2.es
@@ -31,8 +40,22 @@ M+ Liga de Campeones 3 HD,mligadecampeones3.es
 DAZN F1 HD,daznf1.es
 DAZN 1 HD,dazn1.es
 DAZN 2 HD,dazn2.es
+Eurosport 1 HD,eurosport1.es
+Eurosport 2,eurosport2.es
 DAZN LaLiga 3,ES: DAZN LIGA 3 HD
 DAZN LaLiga 4,ES: DAZN LIGA 4 HD
 DAZN LaLiga 5,ES: DAZN LIGA 5 HD
 DAZN 3 HD,dazn3.es
 DAZN 4 HD,dazn4.es
+Eurosport 4K,Eurosport 4K
+Iberalia caza,Iberalia TV
+Dark Rojo,DARK
+DARK,dark.es
+AMC Break,AMC Break
+AMC HD,amc.es
+AMC Crime,AMC Crime
+Historia,historia.es
+Canal Hollywood HD,hollywood.es
+Canal Cocina,canalcocina.es
+Decasa,canaldecasa.es
+Cazavisión,Cazavisión
