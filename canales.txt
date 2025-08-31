@@ -16,6 +16,8 @@ M+ Drama HD,M+ Drama
 M+ Indie HD,M+ Indie
 M+ Cine Español,movistardcine.es
 TCM HD,tcm.es
+BBC Drama,BBC Drama
+BBC Top Gear,BBC Top Gear
 Paramount Network,paramountchannel.es
 Be Mad,bemad.es
 STAR Channel HD,STAR Channel HD
@@ -31,7 +33,9 @@ Neox,neox.es
 Caza y Pesca HD,cazapesca.es
 National Geographic HD,natgeo.es
 Nat Geo Wild HD,natgeowild.es
+BBC History,ES: BBC HISTORY FHD
 Discovery,Discovery
+BBC Food,BBC Food
 Divinity,divinity.es
 Nova,nova.es
 Disney Junior,disneyjunior.es
